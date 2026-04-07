@@ -1,8 +1,8 @@
 ---
 title: "New publication: Blame Shifting in Presidential Systems"
 date: 2026-03-03
-categories: [Updates]
-tags: [publication]
+## categories: [Updates]
+## tags: [publication]
 toc: true
 ---
 

@@ -43,7 +43,16 @@ script_includes:
         </div>
       {% endif %}
 
-      <div class="d-flex justify-content-end">
+      <div class="d-flex justify-content-between align-items-center mt-3">
+        <div>
+          {% if page.author %}
+            <span>
+              {{ site.data.locales[lang].post.written_by }}
+              <em>{{ page.author }}</em>
+            </span>
+          {% endif %}
+        </div>
+
         <div>
           {% if site.pageviews.provider and site.analytics[site.pageviews.provider].id %}
             <span>

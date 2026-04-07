@@ -3,3 +3,6 @@ tabs:
   about: About
   team: Team
   repository: Repository
+
+panel:
+  lastmod: News

@@ -174,3 +174,22 @@ footer.site-footer a:hover {
 section {
   margin-bottom: 2rem;
 }
+
+footer.site-footer {
+  border-top: 1px solid var(--ocpsg-blue-soft);
+  text-align: left !important;
+}
+
+footer.site-footer p {
+  margin-bottom: 0;
+  text-align: left !important;
+}
+
+footer.site-footer a {
+  color: var(--ocpsg-teal);
+}
+
+footer.site-footer a:hover {
+  color: var(--ocpsg-coral);
+}
+}

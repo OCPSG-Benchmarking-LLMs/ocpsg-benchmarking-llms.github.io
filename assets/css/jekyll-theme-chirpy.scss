@@ -17,7 +17,6 @@
 
   --ocpsg-blue-soft: rgba(0, 33, 71, 0.10);
   --ocpsg-teal-soft: rgba(0, 170, 180, 0.10);
-  --ocpsg-coral-soft: rgba(254, 97, 90, 0.10);
 }
 
 html,
@@ -107,13 +106,6 @@ b {
   color: var(--ocpsg-blue) !important;
 }
 
-#sidebar .nav-link:hover i,
-#sidebar .nav-link.active i,
-#sidebar .nav-link:hover svg,
-#sidebar .nav-link.active svg {
-  color: var(--ocpsg-blue) !important;
-}
-
 /* Bottom sidebar icons */
 #sidebar .sidebar-bottom a,
 #sidebar .sidebar-bottom .icon-border {
@@ -158,25 +150,6 @@ blockquote {
 /* Footer */
 footer.site-footer {
   border-top: 1px solid var(--ocpsg-blue-soft);
-  color: inherit;
-}
-
-footer.site-footer a {
-  color: var(--ocpsg-teal);
-}
-
-footer.site-footer a:hover {
-  color: var(--ocpsg-coral);
-}
-
-/* Homepage spacing */
-.home-intro,
-section {
-  margin-bottom: 2rem;
-}
-
-footer.site-footer {
-  border-top: 1px solid var(--ocpsg-blue-soft);
   text-align: left !important;
 }
 
@@ -192,4 +165,9 @@ footer.site-footer a {
 footer.site-footer a:hover {
   color: var(--ocpsg-coral);
 }
+
+/* Homepage spacing */
+.home-intro,
+section {
+  margin-bottom: 2rem;
 }

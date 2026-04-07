@@ -1,0 +1,176 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+@import url("https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700;900&family=Lora:wght@400;500;600;700&display=swap");
+
+:root {
+  --ocpsg-blue: #002147;
+  --ocpsg-coral: #FE615A;
+  --ocpsg-teal: #00AAB4;
+
+  --ocpsg-blue-soft: rgba(0, 33, 71, 0.10);
+  --ocpsg-teal-soft: rgba(0, 170, 180, 0.10);
+  --ocpsg-coral-soft: rgba(254, 97, 90, 0.10);
+}
+
+html,
+body {
+  font-family: "Lora", Georgia, serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+#topbar,
+#topbar-title,
+.post-title,
+.page-title,
+.card-title {
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.page-title,
+.post-title {
+  color: var(--ocpsg-blue);
+}
+
+a {
+  color: var(--ocpsg-teal);
+}
+
+a:hover,
+a:focus {
+  color: var(--ocpsg-blue);
+  text-decoration: none;
+}
+
+strong,
+b {
+  color: var(--ocpsg-coral);
+  font-weight: 700;
+}
+
+/* Sidebar */
+#sidebar {
+  background: #f8f9fa;
+}
+
+/* Title below avatar */
+#sidebar .site-title,
+#sidebar .site-title a,
+#sidebar .site-title a span {
+  color: var(--ocpsg-blue) !important;
+  font-family: "Roboto", Arial, sans-serif;
+  font-weight: 700;
+}
+
+/* Subtitle */
+#sidebar .site-subtitle,
+#sidebar .site-subtitle span {
+  color: var(--ocpsg-coral) !important;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+/* Tab labels */
+#sidebar .nav-link {
+  color: var(--ocpsg-blue) !important;
+  border-left: 3px solid transparent;
+  font-family: "Roboto", Arial, sans-serif;
+}
+
+#sidebar .nav-link:hover,
+#sidebar .nav-link.active {
+  color: var(--ocpsg-blue) !important;
+  background: var(--ocpsg-teal-soft);
+  border-left-color: var(--ocpsg-coral);
+}
+
+/* Tab icons */
+#sidebar .nav-link i,
+#sidebar .nav-link svg {
+  color: var(--ocpsg-blue) !important;
+}
+
+#sidebar .nav-link:hover i,
+#sidebar .nav-link.active i,
+#sidebar .nav-link:hover svg,
+#sidebar .nav-link.active svg {
+  color: var(--ocpsg-blue) !important;
+}
+
+/* Bottom sidebar icons */
+#sidebar .sidebar-bottom a,
+#sidebar .sidebar-bottom .icon-border {
+  color: var(--ocpsg-blue) !important;
+}
+
+#sidebar .sidebar-bottom a:hover,
+#sidebar .sidebar-bottom a:hover i,
+#sidebar .sidebar-bottom a:hover svg {
+  color: var(--ocpsg-coral) !important;
+}
+
+#sidebar .site-avatar {
+  border: 2px solid var(--ocpsg-teal-soft);
+}
+
+/* Top bar */
+#topbar {
+  border-bottom: 1px solid var(--ocpsg-blue-soft);
+}
+
+/* Content */
+.content p,
+.post-content p,
+.page-content p {
+  font-family: "Lora", Georgia, serif;
+  line-height: 1.75;
+}
+
+blockquote {
+  border-left: 4px solid var(--ocpsg-teal);
+  background: var(--ocpsg-teal-soft);
+}
+
+.content h2,
+.page-content h2 {
+  border-bottom: 1px solid var(--ocpsg-blue-soft);
+  padding-bottom: 0.2rem;
+  margin-top: 2rem;
+}
+
+/* Footer */
+footer.site-footer {
+  border-top: 1px solid var(--ocpsg-blue-soft);
+  color: inherit;
+}
+
+footer.site-footer a {
+  color: var(--ocpsg-teal);
+}
+
+footer.site-footer a:hover {
+  color: var(--ocpsg-coral);
+}
+
+/* Homepage spacing */
+.home-intro,
+section {
+  margin-bottom: 2rem;
+}

@@ -46,9 +46,20 @@ script_includes:
       <div class="d-flex justify-content-between align-items-center mt-3">
         <div>
           {% if page.author %}
+            {% assign author_id = page.author %}
+            {% assign author = site.data.authors[author_id] %}
+
             <span>
               {{ site.data.locales[lang].post.written_by }}
-              <em>{{ page.author }}</em>
+              {% if author %}
+                {% if author.url %}
+                  <a href="{{ author.url }}">{{ author.name }}</a>
+                {% else %}
+                  <em>{{ author.name }}</em>
+                {% endif %}
+              {% else %}
+                <em>{{ page.author }}</em>
+              {% endif %}
             </span>
           {% endif %}
         </div>

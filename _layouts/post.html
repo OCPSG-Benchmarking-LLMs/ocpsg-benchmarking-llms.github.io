@@ -52,28 +52,29 @@ script_includes:
                 {% assign author = site.data.authors[author_id] %}
                 {% if author %}
                   {% if author.url %}
-                    <a href="{{ author.url }}">{{ author.name }}</a>
+                    <a href="{{ author.url | escape }}">{{ author.name | escape }}</a>
                   {% else %}
-                    <em>{{ author.name }}</em>
+                    <em>{{ author.name | escape }}</em>
                   {% endif %}
                 {% else %}
-                  <em>{{ author_id }}</em>
+                  <em>{{ author_id | escape }}</em>
                 {% endif %}
                 {% unless forloop.last %}, {% endunless %}
               {% endfor %}
             </span>
           {% elsif page.author %}
-            {% assign author = site.data.authors[page.author] %}
+            {% assign author_id = page.author %}
+            {% assign author = site.data.authors[author_id] %}
             <span>
               {{ site.data.locales[lang].post.written_by }}
               {% if author %}
                 {% if author.url %}
-                  <a href="{{ author.url }}">{{ author.name }}</a>
+                  <a href="{{ author.url | escape }}">{{ author.name | escape }}</a>
                 {% else %}
-                  <em>{{ author.name }}</em>
+                  <em>{{ author.name | escape }}</em>
                 {% endif %}
               {% else %}
-                <em>{{ page.author }}</em>
+                <em>{{ page.author | escape }}</em>
               {% endif %}
             </span>
           {% endif %}
@@ -124,7 +125,7 @@ script_includes:
   </div>
 
   <div class="post-tail-wrapper text-muted">
-    {% if page.categories.size > 0 %}
+    {% if page.categories %}
       <div class="post-meta mb-3">
         <i class="far fa-folder-open fa-fw me-1"></i>
         {% for category in page.categories %}
@@ -133,7 +134,7 @@ script_includes:
       </div>
     {% endif %}
 
-    {% if page.tags.size > 0 %}
+    {% if page.tags %}
       <div class="post-tags">
         <i class="fa fa-tags fa-fw me-1"></i>
         {% for tag in page.tags %}
@@ -141,5 +142,13 @@ script_includes:
         {% endfor %}
       </div>
     {% endif %}
+
+    <div class="post-tail-bottom d-flex justify-content-between align-items-center mt-3 pt-3 pb-2">
+      <div class="license-wrapper">
+        This post is licensed under
+        <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a>
+        by the author{% if page.authors %}s{% endif %}.
+      </div>
+    </div>
   </div>
 </article>

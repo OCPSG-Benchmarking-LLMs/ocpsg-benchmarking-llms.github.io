@@ -106,6 +106,13 @@ b {
   color: var(--ocpsg-blue) !important;
 }
 
+#sidebar .nav-link:hover i,
+#sidebar .nav-link.active i,
+#sidebar .nav-link:hover svg,
+#sidebar .nav-link.active svg {
+  color: var(--ocpsg-coral) !important;
+}
+
 /* Bottom sidebar icons */
 #sidebar .sidebar-bottom a,
 #sidebar .sidebar-bottom .icon-border {
@@ -147,6 +154,16 @@ blockquote {
   margin-top: 2rem;
 }
 
+/* Post footer / licence */
+.post-tail-bottom {
+  border-top: 1px solid var(--ocpsg-blue-soft);
+  margin-top: 1rem;
+}
+
+.license-wrapper {
+  font-size: 0.95rem;
+}
+
 /* Footer */
 footer.site-footer {
   border-top: 1px solid var(--ocpsg-blue-soft);
@@ -175,6 +192,6 @@ footer.site-footer .footer-update {
 
 /* Homepage spacing */
 .home-intro,
-section {
+.page-content section {
   margin-bottom: 2rem;
 }

@@ -23,4 +23,4 @@ On this basis, we generate three baseline classifier outputs for each speech usi
 
 A central descriptive result is the project’s broad cross-national data coverage, with an average of more than **307,000 speeches per case**.
 
-![Data coverage by country](/assets/img/posts/map_coverage_Oxford_Cafe_2026.png)
+![Data coverage by country](/assets/img/map_coverage_Oxford_Cafe_2026.png)

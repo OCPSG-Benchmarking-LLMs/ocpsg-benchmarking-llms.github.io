@@ -106,13 +106,6 @@ b {
   color: var(--ocpsg-blue) !important;
 }
 
-#sidebar .nav-link:hover i,
-#sidebar .nav-link.active i,
-#sidebar .nav-link:hover svg,
-#sidebar .nav-link.active svg {
-  color: var(--ocpsg-coral) !important;
-}
-
 /* Bottom sidebar icons */
 #sidebar .sidebar-bottom a,
 #sidebar .sidebar-bottom .icon-border {
@@ -185,9 +178,17 @@ footer.site-footer a:hover {
 
 footer.site-footer .footer-update {
   margin-top: 0.35rem;
-  font-size: 0.92rem;
+  font-size: inherit;
   color: var(--ocpsg-blue);
-  opacity: 0.8;
+  opacity: 1;
+}
+
+footer.site-footer .footer-update strong {
+  color: var(--ocpsg-blue);
+}
+
+footer.site-footer .footer-update i {
+  color: var(--ocpsg-coral);
 }
 
 /* Homepage spacing */

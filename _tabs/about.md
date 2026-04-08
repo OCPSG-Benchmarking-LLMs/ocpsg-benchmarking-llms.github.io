@@ -2,7 +2,6 @@
 title: About
 icon: fas fa-info-circle
 order: 2
-## toc: true
 ---
 
 This site hosts the benchmarking and documentation infrastructure for **OCPSG Benchmarking LLMs**, a project developed within the **Oxford Computational Political Science Group (OCPSG)**.

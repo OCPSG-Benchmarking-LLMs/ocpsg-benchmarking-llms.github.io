@@ -2,6 +2,7 @@ tabs:
   home: Home
   about: About
   team: Team
+  news: News
   repository: Repository
 
 panel:

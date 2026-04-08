@@ -31,4 +31,4 @@ At present, the project is centred on:
 
 ## Contact
 
-For general information about the wider Oxford Computational Political Science Group, see the OCPSG page at the Department of Politics and International Relations, University of Oxford. General enquiries to OCPSG can be directed to **ocpsg@politics.ox.ac.uk**.
+For general information about the wider Oxford Computational Political Science Group, see the [OCPSG page at the Department of Politics and International Relations, University of Oxford](https://www.politics.ox.ac.uk/oxford-computational-political-science-group).

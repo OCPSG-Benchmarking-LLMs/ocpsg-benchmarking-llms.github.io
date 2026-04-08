@@ -8,9 +8,10 @@ This section brings together the main scholarly and practical outputs associated
 
 ## Conference presentations
 
-- González-Bustamante, B., Bellens, T., Klamm, C., and Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for
-Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual.
+- González-Bustamante, B., Bellens, T., Klamm, C., and Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual. **Soon available**.
 
 ## Resources
 
 This subsection shall include documentation, benchmark repositories, datasets, codebases, and related materials.
+
+- **Release name generator.** Generate a deterministic codename from a seed, with optional Semantic Versioning. [https://ocpsg-benchmarking-llms.github.io/release-name-generator/](https://ocpsg-benchmarking-llms.github.io/release-name-generator/).

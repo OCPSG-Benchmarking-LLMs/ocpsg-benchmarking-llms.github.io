@@ -14,7 +14,9 @@ The project sits within the wider mission of OCPSG to advance computational meth
 
 ## Core team
 
-- **Bastián González-Bustamante** — Research Leader / Leiden University
+**Bastián González-Bustamante** is a Postdoctoral Researcher in Computational Social Science at Leiden University and an Associate Professor of Public Administration at Universidad Diego Portales. He holds a DPhil from the University of Oxford, and he works on building large-scale text-as-data pipelines, deploying AI and machine learning models, and applying causal inference strategies in downstream analyses. He has published in Social Science Computer Review, Public Opinion Quarterly, World Development, Artificial Intelligence and Law, Government and Opposition, etc. He is currently working on an NWO-funded project using LLMs to analyse sustainable finance flows. In parallel, he contributes to COST Action CA22150 on executive-bureaucratic careers and leads an Enlace-UDP project on NLP and LLMs to examine cabinet politics in presidential democracies.
+
 - **Tom Bellens** — Research Associate / KU Leuven
 - **Christopher Klamm** — Research Associate / University of Mannheim  
-- **Marta Koch** — Research Associate  / Imperial College of London  
+- **Marta Koch** — Research Associate  / Imperial College of London
+

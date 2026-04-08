@@ -164,23 +164,17 @@ footer.site-footer {
 }
 
 footer.site-footer p {
-  margin-bottom: 0;
+  margin-bottom: 0 !important;
   text-align: left !important;
 }
 
-footer.site-footer a {
-  color: var(--ocpsg-teal);
-}
-
-footer.site-footer a:hover {
-  color: var(--ocpsg-coral);
-}
-
 footer.site-footer .footer-update {
-  margin-top: 0.35rem;
+  margin-top: 0 !important;
+  margin-bottom: 0.1rem !important;
   font-size: inherit;
   color: var(--ocpsg-blue);
   opacity: 1;
+  line-height: 1.35;
 }
 
 footer.site-footer .footer-update strong {
@@ -188,6 +182,14 @@ footer.site-footer .footer-update strong {
 }
 
 footer.site-footer .footer-update i {
+  color: var(--ocpsg-coral);
+}
+
+footer.site-footer a {
+  color: var(--ocpsg-teal);
+}
+
+footer.site-footer a:hover {
   color: var(--ocpsg-coral);
 }
 

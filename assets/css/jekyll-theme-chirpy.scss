@@ -166,6 +166,13 @@ footer.site-footer a:hover {
   color: var(--ocpsg-coral);
 }
 
+footer.site-footer .footer-update {
+  margin-top: 0.35rem;
+  font-size: 0.92rem;
+  color: var(--ocpsg-blue);
+  opacity: 0.8;
+}
+
 /* Homepage spacing */
 .home-intro,
 section {

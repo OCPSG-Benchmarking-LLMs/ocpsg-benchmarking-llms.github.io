@@ -7,7 +7,7 @@ toc: true
 
 ## Citation
 
-Aczel, B., Szaszi, B., Clelland, H.T., et al. (including González-Bustamante, B.) (2026). Investigating the analytical robustness of the social and behavioural sciences. *Nature, 652*, 135–142 (2026). [https://doi.org/10.1038/s41586-025-09844-9](https://doi.org/10.1038/s41586-025-09844-9).
+Aczel, B., Szaszi, B., Clelland, H.T., et al. (including González-Bustamante, B.) (2026). Investigating the analytical robustness of the social and behavioural sciences. *Nature, 652*, 135–142. [https://doi.org/10.1038/s41586-025-09844-9](https://doi.org/10.1038/s41586-025-09844-9).
 
 ## Abstract
 

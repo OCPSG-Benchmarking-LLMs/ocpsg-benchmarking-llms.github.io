@@ -8,7 +8,7 @@ This section brings together the main scholarly and practical outputs associated
 
 ## Conference presentations
 
-- González-Bustamante, B., Bellens, T., Klamm, C., and Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual. **Soon available**.
+- González-Bustamante, B., Bellens, T., Klamm, C., and Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual. [Open PDF](/assets/pdf/2026_03_OCPSG_Research_Cafe.pdf)
 
 ## Resources
 

@@ -14,3 +14,9 @@ The site was built with **Jekyll** using the **Chirpy** theme, based originally 
 - About, Team, Repository, and News sections.
 - Posts for publications, presentations, and updates.
 - Custom styling and footer adjustments for the project website.
+
+## QR codes
+
+| Oxford Blue | Oxford Coral | Oxford Aqua |
+|---|---|---|
+| <a href="https://raw.githubusercontent.com/OCPSG-Benchmarking-LLMs/ocpsg-benchmarking-llms.github.io/main/branding/qr_code_oxford_blue.png"><img src="branding/qr_code_oxford_blue.png" width="250"></a> | <a href="https://raw.githubusercontent.com/OCPSG-Benchmarking-LLMs/ocpsg-benchmarking-llms.github.io/main/branding/qr_code_oxford_blue.png"><img src="branding/qr_code_oxford_blue.png" width="250"></a> | <a href="https://raw.githubusercontent.com/OCPSG-Benchmarking-LLMs/ocpsg-benchmarking-llms.github.io/main/branding/qr_code_oxford_blue.png"><img src="branding/qr_code_oxford_blue.png" width="250"></a> |

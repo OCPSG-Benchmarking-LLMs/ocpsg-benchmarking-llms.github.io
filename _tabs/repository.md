@@ -8,7 +8,11 @@ This section brings together the main scholarly and practical outputs associated
 
 ## Conference presentations
 
-- González-Bustamante, B., Bellens, T., Klamm, C., and Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual. [[Open PDF]](/assets/pdf/2026_03_OCPSG_Research_Cafe.pdf)
+- González-Bustamante, B., Bellens, T., Klamm, C., & Koch, M. (2026, *forthcoming*). *A proof-of-concept benchmark of LLMs and fine-tuned transformers for multilingual policy agenda coding*. Presentation delivered at the 8th Annual COMPTEXT Conference, Birmingham, UK.
+
+- Klamm, C., González-Bustamante, B., Koch, M., & Bellens, T. (2026, *forthcoming*). *Evaluating Large Language Models for Multilingual Policy Coding: A Transparent Benchmarking and Reporting Framework*. Presentation delivered at the APSA Workshop 2026, Virtual Research Group on Aligning Computational Tools for the Political Science Research Lifecyclez, Virtual.
+
+- González-Bustamante, B., Bellens, T., Klamm, C., & Koch, M. (2026). *Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation*. Presentation delivered at the OCPSG Research Cafe Research Cafe, Virtual. [[Open PDF]](/assets/pdf/2026_03_OCPSG_Research_Cafe.pdf)
 
 ## Resources
 

@@ -7,7 +7,7 @@ toc: true
 
 ## Summary
 
-We presented **Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation** at the **OCPSG Research Cafe**.
+We presented **Benchmarking LLMs and Fine-Tuned Models for Multilingual Policy Agenda Annotation** at the **OCPSG Research Cafe** ([https://www.politics.ox.ac.uk/oxford-computational-political-science-group](https://www.politics.ox.ac.uk/oxford-computational-political-science-group)) on 27 March 2026.
 
 The presentation introduced the project’s main motivation, benchmark design, and multilingual scope. We outlined how the project develops a shared framework for evaluating large language models and fine-tuned models on policy agenda annotation in parliamentary speeches, with an emphasis on reproducibility, cross-country comparability, and transparent evaluation.
 

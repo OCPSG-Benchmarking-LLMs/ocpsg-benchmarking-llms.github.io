@@ -33,7 +33,7 @@ Members of our team also contributed to COMPTEXT 2026 through several additional
 
 - **Presentation.** *Elite polarization in election campaigns under minority and majority governments*, by Christopher Klamm, Flynn Schirott, Sven-Oliver Proksch, and Bruno de Castanho Silva.
 
-- **Presentation.** *AutoConcourse: A computational pipeline for automatic generation of q-concourse statements*, by Alexander Wuttke, Matthias Aßenmacher, Christopher Klamm, Max M. Lang, Quirin Würschinger, and Frauke Kreuter.
+- **Presentation.** *Making semi-structured interviews scalable: An experimental evaluation of AI conversational interviewing*, by Alexander Wuttke, Matthias Aßenmacher, Christopher Klamm, Max M. Lang, Quirin Würschinger, and Frauke Kreuter.
 
 ### More information
 

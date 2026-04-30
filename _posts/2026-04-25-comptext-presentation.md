@@ -7,7 +7,7 @@ toc: true
 
 ## Summary
 
-Bastián González-Bustamante, together with Tom Bellens, Christopher Klamm, and Marta Koch, presented our benchmark project at **COMPTEXT 2026** ([https://www.comptextconference.org](https://www.comptextconference.org/)) in **Birmingham** on 23-25 April 2026.
+Bastián González-Bustamante, together with Tom Bellens, Christopher Klamm, and Marta Koch, presented our benchmark project at **COMPTEXT 2026** in **Birmingham** on 23-25 April 2026.
 
 The presentation introduced the project’s broader goal of developing a transparent and reproducible framework for evaluating LLMs and fine-tuned models on multilingual policy agenda annotation in parliamentary speeches. It outlined the benchmark’s comparative design, multilingual scope, and reporting logic, with a particular emphasis on cross-country comparability, validation, and reproducible evaluation practices.
 
@@ -34,3 +34,7 @@ Members of our team also contributed to COMPTEXT 2026 through several additional
 - **Presentation.** *Elite polarization in election campaigns under minority and majority governments*, by Christopher Klamm, Flynn Schirott, Sven-Oliver Proksch, and Bruno de Castanho Silva.
 
 - **Presentation.** *AutoConcourse: A computational pipeline for automatic generation of q-concourse statements*, by Alexander Wuttke, Matthias Aßenmacher, Christopher Klamm, Max M. Lang, Quirin Würschinger, and Frauke Kreuter.
+
+### More information
+
+- ([https://www.comptextconference.org](https://www.comptextconference.org/))

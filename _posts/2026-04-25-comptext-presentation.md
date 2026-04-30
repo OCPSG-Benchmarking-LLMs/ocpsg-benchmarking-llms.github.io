@@ -37,4 +37,4 @@ Members of our team also contributed to COMPTEXT 2026 through several additional
 
 ### More information
 
-- ([https://www.comptextconference.org](https://www.comptextconference.org/))
+- [https://www.comptextconference.org](https://www.comptextconference.org/)

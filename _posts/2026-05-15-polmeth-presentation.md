@@ -21,7 +21,6 @@ This provides a rare comparative basis for assessing how well different model fa
 
 ![CoREx Gold Standard benchmark results for BERTs and LLMs on extraction and classification tasks](/assets/img/post/annot_career_F1_per_sector.png)
 
-
 ### More information
 
 - [https://polmeth.eu](https://polmeth.eu/)

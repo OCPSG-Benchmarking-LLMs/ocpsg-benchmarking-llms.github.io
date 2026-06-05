@@ -1,5 +1,5 @@
 ---
-title: "New publication: Investigating the Analytical Robustness of the Social and Behavioural Sciences"
+title: "New publication: Investigating the analytical robustness of the social and behavioural sciences"
 date: 2026-04-02
 author: Bastian
 toc: true
